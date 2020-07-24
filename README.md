@@ -3,7 +3,9 @@
 Skills: C#, C++, C, MongoDb, MsSql, MySql, EfCore
 
 🔭 I’m currently working on this page.
+
 🌱 I’m currently learning Go, kubernetes
+
 🤔 I’m looking for help with Kubernetes 
 
 
