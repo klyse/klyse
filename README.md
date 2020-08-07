@@ -25,8 +25,6 @@
 | [<img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" alt="git logo" width="24">](https://mariadb.com/) | [<img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="git logo" width="24">](https://www.mongodb.com/) | [<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="git logo" width="24">](https://www.microsoft.com/en-us/sql-server/sql-server-2019/) |
 |---|---|---|
 
-- What I'm playing around with / what I use at home
-
 
 ### Tools 🛠️
 
