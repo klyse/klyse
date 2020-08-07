@@ -1,12 +1,11 @@
 ### Hi there 👋, my name is Klyse
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klyse&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=klyse&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Programming Languages 🌐
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klyse&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 - What I know / what I use(d) at work
 
@@ -17,6 +16,17 @@
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38">](https://golang.org/)  |
 |---|---|
+
+
+### Databases
+
+- What I know / what I use(d) at work
+
+| [<img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" alt="git logo" width="24">](https://mariadb.com/) | [<img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="git logo" width="24">](https://www.mongodb.com/) | [<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="git logo" width="24">](https://www.microsoft.com/en-us/sql-server/sql-server-2019/) |
+|---|---|---|
+
+- What I'm playing around with / what I use at home
+
 
 ### Tools 🛠️
 
@@ -29,6 +39,7 @@
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="28">](https://www.docker.com/) |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="26">](https://kubernetes.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)| many more...
 |---|---|---|---|
+
 
 ### Other Accounts 📫
 
