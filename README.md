@@ -18,7 +18,7 @@
 |---|---|
 
 
-### Databases
+### Databases 💾
 
 - What I know / what I use(d) at work
 
