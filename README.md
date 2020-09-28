@@ -1,5 +1,7 @@
 # Hi there 👋, my name is Klyse
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/klyse)  
+
 # 📈 Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=klyse&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
@@ -43,4 +45,3 @@
 [![](https://img.shields.io/badge/bot-telegram-2CA5E0?logo=telegram&logoWidth=30&labelColor=black&style=for-the-badge)]()
 
 [![](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]()
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/klyse)  
