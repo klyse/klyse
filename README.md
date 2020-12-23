@@ -44,9 +44,9 @@
 ![](https://img.shields.io/badge/ide-goland-000000?logo=intellijidea&logoWidth=30&labelColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/ide-jupyterNotebooks-F37626?logo=jupyter&logoWidth=30&labelColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/bot-telegram-2CA5E0?logo=telegram&logoWidth=30&labelColor=black&style=for-the-badge)
-![](https://img.shields.io/badge/iac-terraform-2CA5E0?logo=terraform&logoWidth=30&labelColor=black&style=for-the-badge)
-![](https://img.shields.io/badge/iac-ansible-2CA5E0?logo=ansible&logoWidth=30&labelColor=black&style=for-the-badge)
-![](https://img.shields.io/badge/iac-packer-2CA5E0?logo=packer&logoWidth=30&labelColor=black&style=for-the-badge)
-![](https://img.shields.io/badge/iac-vagrant-2CA5E0?logo=vagrant&logoWidth=30&labelColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/iac-terraform-623CE4?logo=terraform&logoWidth=30&labelColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/iac-ansible-EE0000?logo=ansible&logoWidth=30&labelColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/iac-packer-00ACFF?logo=packer&logoWidth=30&labelColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/iac-vagrant-1563FF?logo=vagrant&logoWidth=30&labelColor=black&style=for-the-badge)
 
 ![](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
