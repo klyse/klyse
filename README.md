@@ -29,6 +29,7 @@
 ![](https://img.shields.io/badge/cicd-AzurePipelines-2560E0?logo=azurepipelines&logoWidth=30&labelColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/cicd-Githubactions-2088FF?logo=githubactions&logoWidth=30&labelColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/cloud-Azure-0089D6?logo=microsoftazure&logoWidth=30&labelColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/cloud-aws-0089D6?logo=amazonwebservices&logoWidth=30&labelColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/sourcecontrol-Git-F05032?logo=git&logoWidth=30&labelColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/sourcecontrol-svn-809CC9?logo=subversion&logoWidth=30&labelColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/tools-Cloudflare-F38020?logo=cloudflare&logoWidth=30&labelColor=black&style=for-the-badge)
@@ -43,5 +44,9 @@
 ![](https://img.shields.io/badge/ide-goland-000000?logo=intellijidea&logoWidth=30&labelColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/ide-jupyterNotebooks-F37626?logo=jupyter&logoWidth=30&labelColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/bot-telegram-2CA5E0?logo=telegram&logoWidth=30&labelColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/iac-terraform-2CA5E0?logo=terraform&logoWidth=30&labelColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/iac-ansible-2CA5E0?logo=ansible&logoWidth=30&labelColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/iac-packer-2CA5E0?logo=packer&logoWidth=30&labelColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/iac-vagrant-2CA5E0?logo=vagrant&logoWidth=30&labelColor=black&style=for-the-badge)
 
 ![](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
