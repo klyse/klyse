@@ -2,11 +2,6 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/klyse)  
 
-# 📈 Stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=klyse&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-
 # 🔧 Tech stack
 
 ![](https://img.shields.io/badge/database-MongoDb-47A248?logo=MongoDb&logoWidth=30&labelColor=black&style=for-the-badge)
