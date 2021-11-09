@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/database-MariaDb-003545?logo=MariaDb&logoWidth=30&labelColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/database-Mssql-003545?logo=microsoftsqlserver&logoWidth=30&labelColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/code-c%23-239120?logo=c%23&logoWidth=30&labelColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/database-postgres-003545?logo=postgresql&logoWidth=30&labelColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/code-python-3776AB?logo=python&logoWidth=30&labelColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/code-C-A8B9CC?logo=C&logoWidth=30&labelColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/code-C%2B%2B-00599C?logo=c%2B%2B&logoWidth=30&labelColor=black&style=for-the-badge)
