@@ -36,7 +36,7 @@
 ![](https://img.shields.io/badge/tools-gitkraken-179287?logo=gitkraken&logoWidth=30&labelColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/ide-visualstudio-5C2D91?logo=visualstudio&logoWidth=30&labelColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/ide-vscode-007ACC?logo=visualstudiocode&logoWidth=30&labelColor=black&style=for-the-badge)
-![](https://img.shields.io/badge/ide-rider-000000?logo=intellijidea&logoWidth=30&labelColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/ide-rider-000000?logo=rider&logoWidth=30&labelColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/ide-goland-000000?logo=intellijidea&logoWidth=30&labelColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/ide-jupyterNotebooks-F37626?logo=jupyter&logoWidth=30&labelColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/bot-telegram-2CA5E0?logo=telegram&logoWidth=30&labelColor=black&style=for-the-badge)
