@@ -18,7 +18,8 @@ public class Program
   public static IEnumerable<string> Hates(){
     yield return "We have always done it this way 🔙";
     yield return "Top down approach 🧑🏻‍💼";
-    yield return "Richest getting richer 💰";
+    yield return "Social inequality 😞";
+    yield return "Tracking 🍪 & Data monetization 💰";
   }
 
   public static void Main()
@@ -57,5 +58,6 @@ Improving my coding Skillz 💡
 Hates:
 We have always done it this way 🔙
 Top down approach 🧑🏻‍💼
-Richest getting richer 💰
+Social inequality 😞
+Tracking 🍪 & Data monetization 💰
 ```
