@@ -59,7 +59,3 @@ We have always done it this way 🔙
 Top down approach 🧑🏻‍💼
 Richest getting richer 💰
 ```
-
-# Other stuff I like and do
-
-
