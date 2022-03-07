@@ -7,7 +7,8 @@ using System.Collections.Generic;
 
 public class Program
 {
-  public static IEnumerable<string> Loves(){
+  public static IEnumerable<string> Loves()
+  {
     yield return "Fantasy 📚 / 🎥";
     yield return "Exploring the World 🗺️";
     yield return "PC Games 🕹️️";
@@ -15,7 +16,8 @@ public class Program
     yield return ".net core 🥇";
   }
 
-  public static IEnumerable<string> Hates(){
+  public static IEnumerable<string> Hates()
+  {
     yield return "We have always done it this way 🔙";
     yield return "Top down approach 🧑🏻‍💼";
     yield return "Social inequality 😞";
