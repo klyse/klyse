@@ -20,7 +20,6 @@ public class Program
   {
     yield return "We have always done it this way 🔙";
     yield return "Top down approach 🧑🏻‍💼";
-    yield return "Social inequality 😞";
     yield return "Tracking 🍪 & Data monetization 💰";
   }
 
@@ -60,6 +59,5 @@ Improving my coding Skillz 💡
 Hates:
 We have always done it this way 🔙
 Top down approach 🧑🏻‍💼
-Social inequality 😞
 Tracking 🍪 & Data monetization 💰
 ```
