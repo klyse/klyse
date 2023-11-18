@@ -20,7 +20,6 @@ public class Program
   {
     yield return "We have always done it this way 🔙";
     yield return "Top down approach 🧑🏻‍💼";
-    yield return "Tracking 🍪 & Data monetization 💰";
   }
 
   public static void Main()
@@ -59,5 +58,4 @@ Improving my coding Skillz 💡
 Hates:
 We have always done it this way 🔙
 Top down approach 🧑🏻‍💼
-Tracking 🍪 & Data monetization 💰
 ```
