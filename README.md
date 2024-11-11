@@ -1,61 +1,25 @@
-# Hi there 👋, my name is Klyse
+# Hello World! I'm Klyse 🚀
 
-```csharp
+## About Me
 
-using System;
-using System.Collections.Generic;
+> Senior Software Engineer & DevOps Expert [@Innoactive](https://innoactive.io/)
 
-public class Program
-{
-  public static IEnumerable<string> Loves()
-  {
-    yield return "Fantasy 📚 / 🎥";
-    yield return "Exploring the World 🗺️";
-    yield return "PC Games 🕹️️";
-    yield return "Improving my coding Skillz 💡";
-    yield return ".net core 🥇";
-  }
+A curious spirit with a passion for magic, both in code and storytelling. I journey through realms of programming languages, always eager to learn, create, and challenge the norms.
 
-  public static IEnumerable<string> Hates()
-  {
-    yield return "We have always done it this way 🔙";
-    yield return "Top down approach 🧑🏻‍💼";
-  }
+### What Keeps Me Coding:
 
-  public static void Main()
-  {
-    Console.WriteLine("Name: Klyse");
-    Console.WriteLine("---");
-    Console.WriteLine("Work: Innoactive");
-    Console.WriteLine("Position: Backend Dev & DevOps 💻");
-    Console.WriteLine("---");
-    Console.WriteLine("In love with:");
-    foreach (string klyseLoves in Loves()){
-      Console.WriteLine(klyseLoves);
-    }
-    Console.WriteLine("---");
-    Console.WriteLine("Hates:");
-    foreach (string klyseHates in Hates()){
-      Console.WriteLine(klyseHates);
-    }
-  }
-}
-```
+- ✨ **Fantasy Universes** — I draw inspiration from films, series and sometimes books that create worlds out of nothing.
+- 🌎 **Exploring New Horizons** — Life's too short to stay in one place. Be it coding paradigms or real-world adventures.
+- 🔗 **Endless Tech Stacks** — From Python to C#, TypeScript to Go, .NET Core to PHP—I've dipped my toes in a lot, and I love discovering more.
+- 🎮 **PC Games** — All about RPG's and builders; everything that challenges the mind.
+- 💡 **Problem Solving** — Improving my coding skills daily, refactoring my thoughts, learning new tricks.
 
-```
-Name: Klyse
+### Technologies I Enjoy Working With:
+
+- ⚡ **Backend Magic**: Node.js, .NET Core, Python
+- 🧑‍💻 **DevOps Gear**: GCP, Azure, AWS, Docker, Kubernetes, Terraform, GitHub Actions
+- 🌟 **Miscellaneous Love**: MacOS, Linux, Automating the boring stuff
+
 ---
-Work: Innoactive
-Position: Backend Dev & DevOps 💻
----
-In love with:
-Fantasy 📚 / 🎥
-Exploring the World 🗺️
-PC Games 🕹️️
-Improving my coding Skillz 💡
-.net core 🥇
----
-Hates:
-We have always done it this way 🔙
-Top down approach 🧑🏻‍💼
-```
+
+Connect, explore, and innovate. Let's see what's out there.
