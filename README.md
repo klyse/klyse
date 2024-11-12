@@ -8,7 +8,7 @@ A curious spirit with a passion for magic, both in code and movies. I journey th
 
 ### What Keeps Me Coding:
 
-- ✨ **Fantasy Universes** — I draw inspiration from films, series and sometimes books that create worlds out of nothing.
+- ✨ **Fantasy Universes** — I draw inspiration from movies, series and sometimes books that create worlds out of nothing.
 - 🌎 **Exploring New Horizons** — Life's too short to stay in one place. Be it coding paradigms or real-world adventures.
 - 🔗 **Endless Tech Stacks** — From Python to C#, TypeScript to Go, .NET Core to PHP—I've dipped my toes in a lot, and I love discovering more.
 - 🎮 **PC Games** — All about RPG's and builders; everything that challenges the mind.
