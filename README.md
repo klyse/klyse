@@ -2,7 +2,7 @@
 
 ## About Me
 
-> Senior Software Engineer & DevOps Expert [@Innoactive](https://innoactive.io/)
+> Senior Software Engineer - Cloud Solutions [@Innoactive](https://innoactive.io/)
 
 A curious spirit with a passion for magic, both in code and movies. I journey through realms of programming languages, always eager to learn, create, and challenge the norms.
 
